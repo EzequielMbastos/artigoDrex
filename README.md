@@ -4,7 +4,7 @@ Artigo feito com auxilio de i.a explicando um pouco sobre o DREX e sua oportunid
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-[📕Clique aqui para ler o artigo]-([coloque_aqui_o_link_para_o_artigo](https://web.dio.me/articles/desvendando-o-drex-entendendo-suas-oportunidades?back=%2Farticles&page=1&order=oldest))
+[📕Clique aqui para ler o artigo](https://web.dio.me/articles/desvendando-o-drex-entendendo-suas-oportunidades?back=%2Farticles&page=1&order=oldest))
 )
 
 
